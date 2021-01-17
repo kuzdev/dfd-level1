@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-17T18:48:15.446Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6a26P21Scna0cTrvcRds" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-17T18:52:01.691Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pQY0xYM2a3pCev0B8Op5" version="14.2.4" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2121" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,7 +213,7 @@
         </mxCell>
         <mxCell id="TDke-lBtqgpODulzGm0w-49" value="&lt;div style=&quot;text-align: left&quot;&gt;Info Data Produk&lt;/div&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info&amp;nbsp;Data Artikel&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info&amp;nbsp;Data Stok&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info&amp;nbsp;Data Kategori&lt;/div&gt;&lt;/span&gt;&lt;span&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Data Member&lt;/div&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TDke-lBtqgpODulzGm0w-48">
           <mxGeometry x="-0.0103" relative="1" as="geometry">
-            <mxPoint x="32.38" y="-10" as="offset" />
+            <mxPoint x="32.940000000000005" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TDke-lBtqgpODulzGm0w-55" value="&lt;font style=&quot;font-size: 12px&quot;&gt;Kategori&lt;/font&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
@@ -479,6 +479,25 @@
         <mxCell id="TDke-lBtqgpODulzGm0w-104" value="&lt;div style=&quot;text-align: left&quot;&gt;Laporan Detil Pembelian&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Laporan Pembelian&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Laporan Pembayaran&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TDke-lBtqgpODulzGm0w-103">
           <mxGeometry x="-0.4992" y="3" relative="1" as="geometry">
             <mxPoint x="77" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDke-lBtqgpODulzGm0w-105" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.311;exitY=0.99;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TDke-lBtqgpODulzGm0w-31" target="TDke-lBtqgpODulzGm0w-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="410" as="sourcePoint" />
+            <mxPoint x="270" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="345" y="450" />
+              <mxPoint x="70" y="450" />
+              <mxPoint x="60" y="430" />
+              <mxPoint x="50" y="450" />
+              <mxPoint y="450" />
+              <mxPoint y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TDke-lBtqgpODulzGm0w-106" value="&lt;div style=&quot;text-align: left&quot;&gt;Info Produk&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Artikel&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Stok&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Kategori&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TDke-lBtqgpODulzGm0w-105">
+          <mxGeometry x="-0.4732" y="2" relative="1" as="geometry">
+            <mxPoint x="19.49" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
