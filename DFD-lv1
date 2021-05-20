@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T12:18:13.964Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="10hMCbCVP9cTBxjpeuSc" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T12:31:33.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UaXCM82pG1pMZAp72Uby" version="14.6.13" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1797" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -345,7 +345,7 @@
             <mxPoint x="25" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDke-lBtqgpODulzGm0w-86" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Detil Pemesanan&lt;/span&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="TDke-lBtqgpODulzGm0w-86" value="&lt;span style=&quot;font-size: 11px ; background-color: rgb(255 , 255 , 255)&quot;&gt;Cart&lt;/span&gt;" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="601.72" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TDke-lBtqgpODulzGm0w-87" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
@@ -355,7 +355,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDke-lBtqgpODulzGm0w-88" value="Data&amp;nbsp;&lt;span&gt;Detil Pemesanan&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-87" vertex="1" connectable="0">
+        <mxCell id="TDke-lBtqgpODulzGm0w-88" value="Data Cart" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-87" vertex="1" connectable="0">
           <mxGeometry x="-0.6129" y="-1" relative="1" as="geometry">
             <mxPoint x="55" y="-1" as="offset" />
           </mxGeometry>
@@ -367,7 +367,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDke-lBtqgpODulzGm0w-90" value="Data&amp;nbsp;Detil Pemesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-89" vertex="1" connectable="0">
+        <mxCell id="TDke-lBtqgpODulzGm0w-90" value="Data Cart" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-89" vertex="1" connectable="0">
           <mxGeometry x="0.2778" y="2" relative="1" as="geometry">
             <mxPoint x="28.28" y="-2" as="offset" />
           </mxGeometry>
@@ -572,7 +572,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9keszEDnN5lKEuY_2m0b-20" value="&lt;div style=&quot;text-align: left&quot;&gt;Info Pemesanan&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Detil Pemesanan&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Pembayaran&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9keszEDnN5lKEuY_2m0b-19" vertex="1" connectable="0">
+        <mxCell id="9keszEDnN5lKEuY_2m0b-20" value="&lt;div style=&quot;text-align: left&quot;&gt;Info Pemesanan&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Cart&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Pembayaran&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9keszEDnN5lKEuY_2m0b-19" vertex="1" connectable="0">
           <mxGeometry x="0.0217" y="-1" relative="1" as="geometry">
             <mxPoint x="11.29" y="4.11" as="offset" />
           </mxGeometry>
@@ -587,7 +587,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9keszEDnN5lKEuY_2m0b-22" value="&lt;div style=&quot;text-align: left&quot;&gt;Info Detil Pemesanan&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Pembayaran&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9keszEDnN5lKEuY_2m0b-21" vertex="1" connectable="0">
+        <mxCell id="9keszEDnN5lKEuY_2m0b-22" value="&lt;div style=&quot;text-align: left&quot;&gt;Info Cart&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Info Pembayaran&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9keszEDnN5lKEuY_2m0b-21" vertex="1" connectable="0">
           <mxGeometry x="0.0217" y="-1" relative="1" as="geometry">
             <mxPoint x="189" y="105.96" as="offset" />
           </mxGeometry>
