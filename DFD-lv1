@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-20T12:31:33.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="UaXCM82pG1pMZAp72Uby" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T13:17:44.389Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="JfoEAqdqnJJ3wPDWMenP" version="14.7.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
-    <mxGraphModel dx="1797" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1873" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,9 +427,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDke-lBtqgpODulzGm0w-104" value="&lt;div style=&quot;text-align: left&quot;&gt;Laporan Produk&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Laporan Penjualan&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Laporan Member&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-103" vertex="1" connectable="0">
+        <mxCell id="TDke-lBtqgpODulzGm0w-104" value="&lt;div style=&quot;text-align: left&quot;&gt;Laporan Produk dan Stok&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Laporan Penjualan&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Laporan Member&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-103" vertex="1" connectable="0">
           <mxGeometry x="-0.4992" y="3" relative="1" as="geometry">
-            <mxPoint x="-10.000000000000012" y="-13" as="offset" />
+            <mxPoint x="-10" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TDke-lBtqgpODulzGm0w-105" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;rounded=0;" parent="1" source="TDke-lBtqgpODulzGm0w-31" target="TDke-lBtqgpODulzGm0w-1" edge="1">
@@ -560,7 +560,7 @@
             <mxPoint x="24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9keszEDnN5lKEuY_2m0b-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9keszEDnN5lKEuY_2m0b-17" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Owner&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry y="500" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9keszEDnN5lKEuY_2m0b-19" value="" style="endArrow=classic;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;rounded=0;" parent="1" source="TDke-lBtqgpODulzGm0w-72" target="9keszEDnN5lKEuY_2m0b-17" edge="1">
