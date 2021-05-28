@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-28T13:25:46.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="rKBHX8WXMI-LwXchIvhD" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-28T13:40:10.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="8GAd1MIUlI9AzQB4FN1N" version="14.7.0" type="github">
   <diagram name="Page-1" id="8ce9d11a-91a2-4d17-14d8-a56ed91bf033">
     <mxGraphModel dx="1873" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -443,9 +443,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TDke-lBtqgpODulzGm0w-106" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;Info Produk&lt;/div&gt;&lt;div&gt;Info Stok&lt;/div&gt;&lt;div&gt;Info Kategori&lt;/div&gt;&lt;div&gt;Info Artikel&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-105" vertex="1" connectable="0">
+        <mxCell id="TDke-lBtqgpODulzGm0w-106" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div&gt;Info Produk dan stok&lt;/div&gt;&lt;div&gt;Info Kategori&lt;/div&gt;&lt;div&gt;Info Artikel&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TDke-lBtqgpODulzGm0w-105" vertex="1" connectable="0">
           <mxGeometry x="-0.4732" y="2" relative="1" as="geometry">
-            <mxPoint x="-20" y="-2" as="offset" />
+            <mxPoint x="-10" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z17fUrFF7fxT2CkJJWdm-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.788;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="TDke-lBtqgpODulzGm0w-96" edge="1">
